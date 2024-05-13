@@ -1,6 +1,5 @@
 from PIL import Image, ImageOps
 import os
-import shutil
 
 
 def changeFiles(directory, file):
